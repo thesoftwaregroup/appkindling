@@ -1,4 +1,4 @@
-appkindling
+AppKindling
 ===========
 
 PHP App Framework
